@@ -1,5 +1,6 @@
 import React from 'react'
-import Navbar from './Navbar'
+import Navbar from './Navbar';
+import Bootstrap from "../node_modules/bootstrap/dist/css/bootstrap.min.css"
 function App() {
   return (
     <>
